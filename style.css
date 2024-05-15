@@ -1,0 +1,36 @@
+html {
+  background-image: url(img/americanFlag.jpg);
+}
+
+body {
+  background-color: grey;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 15px;
+  border-radius: 20px;
+  border: solid 4px black;
+  font-family: monospace;
+}
+
+#red {
+  color: rgb(179, 25, 66);
+}
+
+#white {
+  color: white;
+}
+
+#blue {
+  color: rgb(10, 49, 97);
+}
+
+div {
+  background-color: white;
+  border-radius: 20px;
+}
+
+p {
+  font-size: 17px;
+  color: white;
+}
